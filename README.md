@@ -6,4 +6,5 @@ The concept of intellectual property (IP) is crucial to the goal of spurring inn
 ### VGG Model
 This project uses the VGG-19 ConvNet model developed by the Visual Geometry Group at the University of Oxford. It can be downloaded here: http://www.vlfeat.org/matconvnet/pretrained/.
 
+
 Patent pending (Title: "Neural Method for Determining Image Similarity").
